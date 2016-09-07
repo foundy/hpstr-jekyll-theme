@@ -1,32 +1,33 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About Foundy
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature:
+  credit:
+  creditlink:
 comments: false
-modified: 2016-02-01
+modified: 2016-09-07
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+**안녕하세요! _Foundy_ 입니다.**
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+## 블로그를 시작하다.
 
-## HPSTR Features:
+없는거 보단 있는게 나은 것 같아서... :-D
 
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet animated menu.
-* Background image support.
-* Support for large images to call out your favorite posts.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Syntax highlighting]({{ site.url }}/code-highlighting-post/) stylesheets to make your code examples look snazzy.
+## 이런거 하나봐요.
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
+* 프론트엔드 개발팀에 있으니 프론트엔드 개발자인 것 같아요.
+* Webpack, React 등을 만져보곤 있으니 트렌드에 관심이 있는 것 같아요.
+* PHP, .Net 등을 만져는 봤으니 서버쪽 경험이 있긴 한가봐요.
 
-[^1]: Example: *domain.com/category-name/post-title*
+## 작은 바람이 있나봐요.
+
+* _2등이 없으면 1등도 없잖아요._
+* _3등이 없으면 2등도 없구요._
+* _꼴찌를 하더라도 누군가에게 도움이 되면 좋겠네요._
+
+## 나와 나의 연결 고리
+
+* [http://foundy.io](http://foundy.io)
+* [http://blog.foundy.io](http://blog.foundy.io)
